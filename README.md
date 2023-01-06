@@ -1,5 +1,5 @@
 # Jokes-App
-Jokes App is created using Voiceflow and published on Google. The action can be invoked by typing or saying "Talk to Jokes App" on any Google Assistant enabled device logged in with the developer's Google credentials
+Jokes App is a voice-app created using Voiceflow and published on Google. The action can be invoked by typing or saying "Talk to Jokes App" on any Google Assistant enabled device logged in with the developer's Google credentials
 
 The app is tested on various platforms:
 
